@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Durga Darshan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Durga Darshan</string>
+    <string name="nav_header_subtitle">durgadarshanofficial@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">দূর্গা দর্শন</string>
+
+    <string name="south_kol">South Kolkata</string>
+    <string name="north_kol">North Kolkata</string>
+    <string name="center_kol">Miscellaneous</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Show Route</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_rate">Rate</string>
+    <string name="menu_send">Report</string>
+
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+
+    <string name="openMsg">Click On the Markers to know Pandal\'s Name</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="show_in_map">Map</string>
+    <string name="list">List</string>
+    <string name="help">Help</string>
+    <string name="share">Share</string>
+    <string name="suggested_route">Route</string>
+    <string name="show_pictures">Pictures</string>
+
+    <!--Contact Form-->
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department&#8230;</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+    <string name="route_head">Starts from here\n</string>
+    <string name="stations">1. Station 1 \n2. Station 2 \n3. Station 3</string>
+
+
+    <string name="sk1h">Starts from New Alipur Station\n\n\n</string>
+    <string name="sk1b">
+        1. Suruchi Sangha \n\n
+        2. New Alipore Childrens Park \n\n
+        3. Chetla Agrani Club (by Auto rickshaw)\n\n
+        4. 66 Pally Durga Puja\n\n
+        5. Badamtala Ashar Sangha\n\n
+        6. Shib Mandir\n\n
+        7. Deshapriya Park (by Bus or Walk)\n\n
+        8. Tridhara Sanmmilani\n\n
+        9. Ballygunge Cultural Association\n\n
+        10. Samaj Sebi Sangha\n\n
+        11. Hindustan Park\n\n
+        12. Singhi Park\n\n
+        13. Ekdalia Evergreen Club\n\n
+        14. Falguni Sangha\n\n
+    </string>
+    <string name="sk2h">Starts from Netaji Bhwaban Metro\n\n\n</string>
+    <string name="sk2b">
+        1. Bhowanipur 75 Palli\n\n
+        2. Bhowanipur Swadhin Sangha Durga Puja \n\n
+        3. 68 pally Durga Puja\n\n
+        4. Aikatan, Dakshin Kolkata Sarbajanin Durgapujo\n\n
+        5. Abasar Durga Pujo\n\n
+        6. Madox Square\n\n
+    </string>
+    <string name="nk1h">Starts from Lake Town \n\n\n</string>
+    <string name="nk1b">
+        1. Golaghata Sarbojanin\n\n
+        2. Sreebhumi Sporting\n\n
+        3. Lake Town Adibashi Brinda\n\n
+        4. Lake Town Netaji Sporting\n\n
+        5. Dumdum Park\n\n
+        6. Bharat Chakra\n\n
+        7. 4 no Tank\n\n
+        8. Dumdum park jubak brinda\n\n
+        9. Dumdum Tarun Dal\n\n
+    </string>
+    <string name="nk2h">Starts from BarraBazar* or Girish Park Metro\n\n\n</string>
+    <string name="nk2b">
+        1. Darpanarayan Street\n\n
+        2. Pathuriyaghata\n\n
+        3. Ahiritola\n\n
+        4. Beniyatola\n\n
+        5. Jagat Mukherjee park\n\n
+        6. Kumartuli park\n\n
+        7. Kumartuli sarbajanin\n\n
+        8. Bagbazar sarbajanin (by Bus)\n\n
+        9. Sikdar bagan (next pandals are very close to each other)\n\n
+        10. Hatibagan Nabin pally\n\n
+        11. Nalin sarkar street\n\n
+        12. Hati bagan sarbajanin\n\n
+        13. Kashi bose lane\n\n
+
+    </string>
+    <string name="nk3h">Starts from Kankurgachi\n\n\n</string>
+    <string name="nk3b">
+        1. Kakurgachi jubak brinda\n\n
+        2. Kakur gachi mitali\n\n
+        3. Gurudas Park (by Bus or Auto rickshaw)\n\n
+        3. Beleghata 33 pally\n\n
+        4. Near Divine\n\n
+        5. Beleghata Nabamilan\n\n
+        6. Sandhani\n\n
+    </string>
+    <string name="mi1h">Starts from Sealdah\n\n\n</string>
+    <string name="mi1b">
+        1. Santosh Mitra Square\n\n
+        2. College Square\n\n
+        3. Md. Ali Park\n\n
+    </string>
+    <string name="title_activity_interstitial_ads">InterstitialAds</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="bannar_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="mobile_ad_unit_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
